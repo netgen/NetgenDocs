@@ -13,7 +13,8 @@ Netgen Layouts
 --------------
 
 `Netgen Layouts`_ is an easy and flexible way of managing all page layouts on
-your website.
+your website. Use it to manage and maintain the website layout structure in a
+slick and agile but at the same time extensible way.
 
 Netgen Content Browser
 ----------------------
