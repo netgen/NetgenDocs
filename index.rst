@@ -1,9 +1,9 @@
 .. toctree::
     :hidden:
 
-    Netgen Layouts docs <http://docs.netgen.io/projects/layouts/en/latest/>
-    Netgen Content Browser docs <http://docs.netgen.io/projects/cb/en/latest/>
-    Netgen Base Site docs <http://docs.netgen.io/projects/basesite/en/latest/>
+    Netgen Layouts docs <http://docs.netgen.io/projects/layouts/>
+    Netgen Content Browser docs <http://docs.netgen.io/projects/cb/>
+    Netgen Base Site docs <http://docs.netgen.io/projects/basesite/>
 
 Welcome to Netgen Docs
 ======================
@@ -30,6 +30,6 @@ Netgen Base Site
 Netgen Layouts and shows best practices for implementing content based
 web portals.
 
-.. _`Netgen Layouts`: /projects/layouts/en/latest/
-.. _`Netgen Content Browser`: /projects/cb/en/latest/
-.. _`Netgen Base Site`: /projects/basesite/en/latest/
+.. _`Netgen Layouts`: /projects/layouts/
+.. _`Netgen Content Browser`: /projects/cb/
+.. _`Netgen Base Site`: /projects/basesite/
