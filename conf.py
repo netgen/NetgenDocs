@@ -33,3 +33,6 @@ html_theme_options = {
     'display_version': True,
     'navigation_depth': 2,
 }
+
+def setup(app):
+   app.add_stylesheet("css/style.css")
