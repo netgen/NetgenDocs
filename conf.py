@@ -3,6 +3,8 @@
 import sys, os
 import sphinx_rtd_theme
 
+from datetime import datetime
+
 extensions = ['sphinx.ext.autodoc',
     'sphinx.ext.doctest',
     'sphinx.ext.todo',
