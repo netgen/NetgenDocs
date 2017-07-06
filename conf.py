@@ -14,7 +14,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 project = 'Netgen Docs'
-copyright = '2017, Netgen'
+copyright = 'Netgen'
 author = 'Netgen'
 
 version = ''
@@ -34,5 +34,10 @@ html_theme_options = {
     'navigation_depth': 2,
 }
 
+html_context = {
+    'copyright_url': 'http://www.netgenlabs.com',
+    'current_year': datetime.utcnow().year
+}
+
 def setup(app):
-   app.add_stylesheet("css/style.css")
+    app.add_stylesheet("css/style.css")
