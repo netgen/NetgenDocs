@@ -37,7 +37,7 @@ html_theme_options = {
 }
 
 html_context = {
-    'copyright_url': 'http://www.netgenlabs.com',
+    'copyright_url': 'https://www.netgenlabs.com',
     'current_year': datetime.utcnow().year
 }
 
