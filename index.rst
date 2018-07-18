@@ -1,8 +1,8 @@
 .. toctree::
     :hidden:
 
-    Netgen Layouts docs <http://docs.netgen.io/projects/layouts/>
-    Netgen Content Browser docs <http://docs.netgen.io/projects/cb/>
+    Netgen Layouts docs <https://docs.netgen.io/projects/layouts/>
+    Netgen Content Browser docs <https://docs.netgen.io/projects/cb/>
 
 Welcome to Netgen Docs
 ======================
