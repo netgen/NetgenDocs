@@ -1,7 +1,7 @@
 Netgen Docs
 ===========
 
-This repository contains source code for Netgen Docs page.
+This repository contains source code for [Netgen Docs page](https://docs.netgen.io).
 
 Building the docs
 -----------------
