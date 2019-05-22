@@ -1,10 +1,8 @@
-Netgen Docs
-===========
+# Netgen Docs
 
 This repository contains source code for [Netgen Docs page](https://docs.netgen.io).
 
-Building the docs
------------------
+## Building the docs
 
 If any of the following steps fail, rerun the commands with `sudo`.
 
