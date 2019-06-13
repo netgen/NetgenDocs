@@ -4,6 +4,7 @@
     Netgen Layouts docs <https://docs.netgen.io/projects/layouts/>
     Netgen Content Browser docs <https://docs.netgen.io/projects/cb/>
     eZ Platform Site API docs <https://docs.netgen.io/projects/site-api/>
+    eZ Platform Search Extra docs <https://docs.netgen.io/projects/search-extra/>
 
 Welcome to Netgen Docs
 ======================
@@ -31,6 +32,12 @@ eZ Platform Site API
 website in clean, natural and streamlined way, often without even writing PHP.
 It makes the process of building websites easier, faster and less error prone.
 
+eZ Platform Search Extra
+------------------------
+
+`eZ Platform Search Extra`_ — extra bits for eZ Platform search.
+
 .. _`Netgen Layouts`: /projects/layouts/
 .. _`Netgen Content Browser`: /projects/cb/
 .. _`eZ Platform Site API`: /projects/site-api/
+.. _`eZ Platform Search Extra`: /projects/search-extra/
