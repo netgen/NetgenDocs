@@ -35,7 +35,7 @@ It makes the process of building websites easier, faster and less error prone.
 eZ Platform Search Extra
 ------------------------
 
-`eZ Platform Search Extra`_ — extra bits for eZ Platform search.
+`eZ Platform Search Extra`_ provides additional features for eZ Platform search.
 
 .. _`Netgen Layouts`: /projects/layouts/
 .. _`Netgen Content Browser`: /projects/cb/
