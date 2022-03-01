@@ -3,7 +3,8 @@
 
     Netgen Layouts docs <https://docs.netgen.io/projects/layouts/>
     Netgen Content Browser docs <https://docs.netgen.io/projects/cb/>
-    eZ Platform Site API docs <https://docs.netgen.io/projects/site-api/>
+    Netgen Site API for Ibexa CMS docs <https://docs.netgen.io/projects/site-api/>
+    eZ Platform Site API docs <https://docs.netgen.io/projects/ezplatform-site-api/>
     eZ Platform Search Extra docs <https://docs.netgen.io/projects/search-extra/>
 
 Welcome to Netgen Docs
@@ -25,6 +26,13 @@ Netgen Content Browser
 which selects items from any kind of backend and returns the IDs of
 selected items back to the calling code.
 
+Netgen Site API for Ibexa CMS
+-----------------------------
+
+`Netgen Site API for Ibexa CMS`_ is a productivity layer built for Ibexa CMS
+developers, designed to remove the need for boilerplate code and make the
+development of Ibexa CMS sites more accessible and less fallible.
+
 eZ Platform Site API
 --------------------
 
@@ -39,5 +47,6 @@ eZ Platform Search Extra
 
 .. _`Netgen Layouts`: /projects/layouts/
 .. _`Netgen Content Browser`: /projects/cb/
-.. _`eZ Platform Site API`: /projects/site-api/
+.. _`Site API for Ibexa CMS`: /projects/site-api/
+.. _`eZ Platform Site API`: /projects/ezplatform-site-api/
 .. _`eZ Platform Search Extra`: /projects/search-extra/
