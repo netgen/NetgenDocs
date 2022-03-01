@@ -47,6 +47,6 @@ eZ Platform Search Extra
 
 .. _`Netgen Layouts`: /projects/layouts/
 .. _`Netgen Content Browser`: /projects/cb/
-.. _`Site API for Ibexa CMS`: /projects/site-api/
+.. _`Netgen Site API for Ibexa CMS`: /projects/site-api/
 .. _`eZ Platform Site API`: /projects/ezplatform-site-api/
 .. _`eZ Platform Search Extra`: /projects/search-extra/
