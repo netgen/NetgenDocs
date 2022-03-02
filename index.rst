@@ -33,6 +33,12 @@ Netgen Site API for Ibexa CMS
 developers, designed to remove the need for boilerplate code and make the
 development of Ibexa CMS sites more accessible and less fallible.
 
+Netgen Search Extra for Ibexa CMS
+---------------------------------
+
+`Netgen Search Extra for Ibexa CMS`_ provides additional features for Ibexa CMS
+search.
+
 eZ Platform Site API
 --------------------
 
@@ -48,5 +54,6 @@ eZ Platform Search Extra
 .. _`Netgen Layouts`: /projects/layouts/
 .. _`Netgen Content Browser`: /projects/cb/
 .. _`Netgen Site API for Ibexa CMS`: /projects/site-api/
+.. _`Netgen Search Extra for Ibexa CMS`: /projects/search-extra/
 .. _`eZ Platform Site API`: /projects/ezplatform-site-api/
-.. _`eZ Platform Search Extra`: /projects/search-extra/
+.. _`eZ Platform Search Extra`: /projects/ezplatform-search-extra/
