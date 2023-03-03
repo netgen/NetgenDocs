@@ -4,6 +4,7 @@
     Netgen Layouts docs <https://docs.netgen.io/projects/layouts/>
     Netgen Content Browser docs <https://docs.netgen.io/projects/cb/>
     Netgen Site API for Ibexa CMS docs <https://docs.netgen.io/projects/site-api/>
+    Netgen Local Development Setup docs <https://docs.netgen.io/projects/lds/>
     eZ Platform Site API docs <https://docs.netgen.io/projects/ezplatform-site-api/>
     eZ Platform Search Extra docs <https://docs.netgen.io/projects/search-extra/>
 
@@ -39,6 +40,12 @@ Netgen Search Extra for Ibexa CMS
 `Netgen Search Extra for Ibexa CMS`_ provides additional features for Ibexa CMS
 search.
 
+Netgen Local Development Setup
+------------------------------
+
+`Netgen Local Development Setup`_ is a guide on setting up modern web development
+environment with PHP on your local Mac or Linux machine.
+
 eZ Platform Site API
 --------------------
 
@@ -55,5 +62,6 @@ eZ Platform Search Extra
 .. _`Netgen Content Browser`: /projects/cb/
 .. _`Netgen Site API for Ibexa CMS`: /projects/site-api/
 .. _`Netgen Search Extra for Ibexa CMS`: /projects/search-extra/
+.. _`Netgen Local Development Setup`: /projects/lds/
 .. _`eZ Platform Site API`: /projects/ezplatform-site-api/
 .. _`eZ Platform Search Extra`: /projects/ezplatform-search-extra/
