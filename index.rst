@@ -4,9 +4,10 @@
     Netgen Layouts docs <https://docs.netgen.io/projects/layouts/>
     Netgen Content Browser docs <https://docs.netgen.io/projects/cb/>
     Netgen Site API for Ibexa CMS docs <https://docs.netgen.io/projects/site-api/>
+    Netgen Search Extra for Ibexa CMS docs <https://docs.netgen.io/projects/search-extra/>
     Netgen Local Development Setup docs <https://docs.netgen.io/projects/lds/>
     eZ Platform Site API docs <https://docs.netgen.io/projects/ezplatform-site-api/>
-    eZ Platform Search Extra docs <https://docs.netgen.io/projects/search-extra/>
+    eZ Platform Search Extra docs <https://docs.netgen.io/projects/ezplatform-search-extra/>
 
 Welcome to Netgen Docs
 ======================
